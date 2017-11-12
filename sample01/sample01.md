@@ -17,7 +17,7 @@ Device description:
 
 [matlab](i-v-1.mat)
 
-note: first column: voltage V~cell~, second column: absolute value of the current I~cell~
+note: first column: voltage V~cell~, second column: absolute value of the current I~cell~ $\mbox{I}_{cell]^$
 
 # Reference
 ---
