@@ -1,5 +1,5 @@
 # RRAM I-V Sample Data #1
----
+
 Device description:
 1. Device structure: Ti/NiO/Pt 
 2. Resistive switch type: bipolar
@@ -7,7 +7,7 @@ Device description:
 
 
 # Plot I-V sample data
----
+
 ![i-v](i-v-1.svg)
 
 
@@ -20,7 +20,7 @@ Device description:
 note: first column: voltage V~cell~, second column: absolute value of the current I~cell~ $\mbox{I}_{cell]^$
 
 # Reference
----
+
 Extracted from:
 
 G. Ma, X. Tang, H. Su, Y. Li, H. Zhang and Z. Zhong, "Effects of Standard Free Energy on NiO Bipolar Resistive Switching Devices," in IEEE Transactions on Electron Devices, vol. 61, no. 5, pp. 1237-1240, May 2014.
