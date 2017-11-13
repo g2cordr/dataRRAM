@@ -8,4 +8,5 @@
 * [Sample #6](/sample06) Cu2O
 * [Sample #7](/sample07) HfO2
 * [Sample #8](/sample08) TiN/MnO2/Pt
-
+* [Sample #9](/sample09) HoTiOx
+* [Sample #10](/sample10) Ho2O3
